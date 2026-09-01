@@ -1,6 +1,0 @@
-/**
- * Private
- */
-public class Private {
-
-}
